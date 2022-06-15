@@ -39,5 +39,5 @@ a:hover{
     transition: transform .8s !important;
 }
 .anima1:hover{
-
+    transform: scale(2.05);
 }
